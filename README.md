@@ -6,7 +6,7 @@ To get started, simply create an account or log in with your existing credential
 
 ## Tech Stack
 - UI Components library: [Shadcnui](https://ui.shadcn.com/docs/installation)
-- Frontend: [Nextjs](https://nextjs.org/)
-- Backend Authentication: [Supabase](https://supabase.com/)
+- Frontend/Backend: [Nextjs](https://nextjs.org/)
+- Development platform: [Supabase](https://supabase.com/)
 - Avatar Library: [DiceBear](https://www.dicebear.com/)
 - Hosting: [Vercel](https://vercel.com/dashboard)
