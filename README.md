@@ -5,10 +5,8 @@ Our calendar app is designed to help you keep track of your schedule and book ev
 To get started, simply create an account or log in with your existing credentials. Once you're in, you can view your calendar by day, week, or month, and add new events with all the important details, including location, time, and any relevant notes.
 
 ## Tech Stack
-
-### Frontend
-- Tailwind CSS
-
-
-### Backend
-- 
+- UI Components library: [Shadcnui](https://ui.shadcn.com/docs/installation)
+- Frontend: [Nextjs](https://nextjs.org/)
+- Backend Authentication: [Supabase](https://supabase.com/)
+- Avatar Library: [DiceBear](https://www.dicebear.com/)
+- Hosting: [Vercel](https://vercel.com/dashboard)
