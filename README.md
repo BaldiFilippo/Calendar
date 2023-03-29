@@ -7,7 +7,7 @@ To get started, simply create an account or log in with your existing credential
 ## Tech Stack
 
 ### Frontend
-- 
+- Tailwind CSS
 
 
 ### Backend
