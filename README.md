@@ -6,9 +6,9 @@ To get started, simply create an account or log in with your existing credential
 
 ## Tecnologies
 
-### Front-end
-- c#
+### Frontend
+- 
 
 
-### Back-end
-- php
+### Backend
+- 
